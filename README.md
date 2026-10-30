@@ -1,10 +1,10 @@
-# Gaitho Karuoya
+# Karuoya Gaitho
 
 **Software Developer & Data Analyst** · Nairobi, Kenya
 
 I build production data systems end to end, from database schema to the interface people utilise — mainly in PostgreSQL, R Shiny and Linux deployment.
 
-📄 **[Download my CV (PDF)](./Gaitho_Karuoya_CV.pdf)**
+📄 **[Download my CV (PDF)](./Karuoya_Gaitho_CV.pdf)**
 
 ---
 
